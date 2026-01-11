@@ -1,68 +1,55 @@
-# sports-collectible-nft
-# 🏁 Kyle Busch – 2026 NASCAR Race Win | 1 of 1 NFT
+# Kyle Busch 2026 NASCAR Race Win NFT | 1 of 1 Digital Collectible
 
-## 🔗 Official NFT Listing
-👉 View & bid on Rarible:  
-https://og.rarible.com/token/0xc9154424b823b10579895ccbe442d41b9abd96ed:2658192348398122532262907263771027306936224460456655436654613191467355602945
+**Official One-of-One NFT capturing Kyle Busch’s 2026 NASCAR race victory.**  
+This repository serves as the public provenance, verification, and transparency hub for a unique motorsports NFT listed for auction on Rarible.
 
 ---
 
-## 🖼️ About This NFT
+## 🔗 Official NFT Auction Link (Rarible)
 
-This repository documents and verifies a **one-of-one NFT** capturing **Kyle Busch’s 2026 NASCAR race victory**.
-
-This image represents a historic motorsports moment and has been permanently minted on the blockchain as a **single, non-duplicated digital collectible**.
-
-- 🏆 **Edition:** 1 of 1  
-- 📸 **Medium:** Original Photography  
-- 🏁 **Sport:** NASCAR  
-- 🧠 **Category:** Sports Memorabilia / Digital Collectible  
-- 🔗 **Blockchain-backed provenance**
-
-No additional editions will ever be created from this original file.
+👉 https://og.rarible.com/token/0xc9154424b823b10579895ccbe442d41b9abd96ed:2658192348398122532262907263771027306936224460456655436654613191467355602945
 
 ---
 
-## 💎 Why This NFT Is Valuable
+## 🏁 About the Kyle Busch 2026 NASCAR NFT
 
-- Captures a **verified 2026 NASCAR win**
-- One-of-a-kind digital asset
-- Permanently recorded on-chain
-- Ideal for collectors, motorsport historians, and Web3 investors
-- GitHub repo provides **public transparency and provenance**
+This NFT represents a **one-of-one, blockchain-minted digital collectible** documenting a **Kyle Busch NASCAR race win in 2026**. The image captures a definitive moment in modern motorsports history and has been permanently recorded on-chain.
 
----
+No additional editions, copies, or derivatives will ever be minted from this original photographic asset.
 
-## 🔐 Ownership & Rights
-
-Ownership of this NFT grants the holder **verifiable blockchain ownership** of the digital collectible.
-
-This NFT does **not** transfer commercial rights, trademarks, or likeness rights unless explicitly stated by the creator.
-
----
-
-## 📂 Repository Purpose
-
-This GitHub repository serves as:
-- A **public provenance record**
-- A **verification hub** for collectors
-- A **Web3-native landing page** for the NFT auction
-- A transparency layer beyond the marketplace listing
+**Key Details:**
+- 🏆 **Edition:** 1 of 1 (Single Mint)
+- 📸 **Format:** Original Motorsport Photography
+- 🏁 **Sport:** NASCAR
+- 👤 **Driver:** Kyle Busch
+- 🗓 **Year:** 2026
+- 🔗 **Marketplace:** Rarible
+- ⛓ **Blockchain:** Ethereum
 
 ---
 
-## 📢 Auction & Promotion
+## 💎 Why This NASCAR NFT Is Valuable
 
-This NFT is currently listed for auction on Rarible.  
-Serious collectors and motorsport enthusiasts are encouraged to view the listing and participate.
+- One-of-one NASCAR digital collectible
+- Documents a verified 2026 race win
+- Blockchain-backed authenticity and provenance
+- Designed for serious sports memorabilia collectors
+- Public GitHub repository adds transparency and trust
+- Long-term historical value for motorsports archives
 
-🔗 Auction Link:  
-https://og.rarible.com/token/0xc9154424b823b10579895ccbe442d41b9abd96ed:2658192348398122532262907263771027306936224460456655436654613191467355602945
+This NFT is ideal for collectors interested in:
+**NASCAR NFTs, Kyle Busch memorabilia, sports NFTs, racing collectibles, and blockchain-based sports history.**
 
 ---
 
-## 🏁 Final Note
+## 📂 Purpose of This GitHub Repository
 
-This is not just an image.  
-It is a **timestamped piece of racing history**, preserved through blockchain technology.
-This image represents a historic motorsports moment and has been permanently minted on the blockchain as a **single, non-duplicated digital collectible**.
+This repository exists to:
+
+- Provide **public provenance** for the NFT
+- Act as a **verification source** for collectors and marketplaces
+- Improve discoverability through **search engine indexing**
+- Serve as a permanent, third-party reference point
+- Support transparency in Web3 sports collectibles
+
+GitHub is used intentionally as a neutral, timestamped platform
